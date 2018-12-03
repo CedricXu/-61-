@@ -20,3 +20,7 @@
 北大光华 http://www.gsm.pku.edu.cn/graduate/zsxx/3.htm
 
 北大前沿交叉信息研究院 http://www.aais.pku.edu.cn/ 
+
+清华计算机系 http://www.cs.tsinghua.edu.cn/publish/cs/4723/index.html
+
+清华软院 http://www.tsinghua.edu.cn/publish/soft/3669/index.html
